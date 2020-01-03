@@ -1,4 +1,4 @@
-[目录](README.md)   [下一页](python-1002.md)
+[目录](README.md)   [第二章](python-1002.md)
 
 # 理解编程语言
 1. 计算机系统和 CPU

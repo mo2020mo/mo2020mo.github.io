@@ -1,4 +1,4 @@
-[目录](README.md)   [下一页](python-1004.md)    [上一页](python-1002.md)
+[目录](README.md)   [第四章](python-1004.md)    [第二章](python-1002.md)
 
 # 程序的基本结构（二）：操作符与函数
 1. 常用操作符

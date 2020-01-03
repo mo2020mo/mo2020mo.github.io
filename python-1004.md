@@ -1,4 +1,4 @@
-[目录](README.md)   [下一页](python-1005.md)    [上一页](python-1003.md)
+[目录](README.md)   [第五章](python-1005.md)    [第三章](python-1003.md)
 
 # 程序的基本结构（三）：逻辑判断与分支
 

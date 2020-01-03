@@ -1,4 +1,4 @@
-[目录](README.md)   [下一页](python-1006.md)    [上一页](python-1004.md)
+[目录](README.md)   [第六章](python-1006.md)    [第四章](python-1004.md)
 
 # 程序的基本结构（四）：循环
 1. for 循环

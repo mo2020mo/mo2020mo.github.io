@@ -1,4 +1,4 @@
-[目录](README.md)   [上一页](python-1007.md)
+[目录](README.md)   [第七章](python-1007.md)
 
 # 理解对象与类：概念篇
 ## 类和对象

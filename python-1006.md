@@ -1,4 +1,4 @@
-[目录](README.md)   [下一页](python-1007.md)    [上一页](python-1005.md)
+[目录](README.md)   [第七章](python-1007.md)    [第五章](python-1005.md)
 
 # 程序的基本结构（五）：异常处理
 > Python 提供的异常处理机制可以用下面的模板来说明
