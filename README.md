@@ -7,3 +7,4 @@
 1. [第六章](python-1006.md)
 1. [第七章](python-1007.md)
 1. [第八章](python-1008.md)
+1. [第九章](Iterator.md)
