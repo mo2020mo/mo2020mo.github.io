@@ -8,4 +8,6 @@
 1. [第六章](python-1006.md)
 1. [第七章](python-1007.md)
 1. [第八章](python-1008.md)
-1. [第九章](Iterator.md)
+1. [第九章](python-1009.md)
+1. [第十章](python-1010.md)
+1. [第N章](Iterator.md)
